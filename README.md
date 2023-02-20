@@ -4,9 +4,13 @@
 
 擅长 JavaScript, CSS, HTML, Python ~~和 Scratch~~，正在学习C/C++
 
+我目前正在做：
+* [audio-player: 一款多功能在线音频播放器](https://github.com/user782tec/audio-player) 4.2.0beta11
+
 代表作：
 * [audio-player: 一款多功能在线音频播放器](https://github.com/user782tec/audio-player)
-* [我用音游摆烂了你的AE作业（已摆烂）](https://github.com/user782tec/chinese-new-year)
+* [canvas: \<canvas\>画布绘画测试](https://github.com/user782tec/canvas)
+* 没了，看什么看（bushi
 
 相关账号：
 * BiliBili：[782_](https://space.bilibili.com/1046361194)
