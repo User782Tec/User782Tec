@@ -4,7 +4,7 @@
 
 擅长 JavaScript, CSS, HTML, Python ~~和 Scratch~~，正在学习C/C++
 
-我目前正在做：
+我目前~~没有~~正在做：
 * [audio-player: 一款多功能在线音频播放器](https://github.com/user782tec/audio-player) 0.4.2beta12
 
 代表作：
