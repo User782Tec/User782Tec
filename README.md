@@ -2,7 +2,7 @@
 
 这是个喜欢写前端网页的屑
 
-擅长 JavaScript, CSS, HTML, Python ~~和 Scratch~~，正在学习C/C++
+精通 JavaScript, CSS, HTML ~~和 Scratch~~，擅长 Python, C, C++，熟悉汇编语言
 
 我目前~~没有~~正在做：
 * [audio-player: 一款多功能在线音频播放器](https://github.com/user782tec/audio-player) 0.4.2beta12
