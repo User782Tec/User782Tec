@@ -18,6 +18,8 @@
 * 苦力怕论坛：[782](https://klpbbs.com/space-uid-196429.html)
 * SourceForge：[user782](https://sourceforge.net/u/user782/profile)
 
+这是我的~~无情~~工具人：@BuildBot-782
+
 [![User782Tec's GitHub stats](https://github-readme-stats.vercel.app/api?username=User782Tec&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 联系我(Contact me): Email: ls3309205212@outlook.com
