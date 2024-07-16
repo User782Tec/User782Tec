@@ -1,5 +1,7 @@
 ### 你好 👋
 
+~~这个屑去打OI了~~，可能不会做一些东西了
+
 这是个喜欢写前端网页的屑
 
 精通 JavaScript, CSS, HTML ~~和 Scratch~~，擅长 Python, C, C++，熟悉汇编语言
